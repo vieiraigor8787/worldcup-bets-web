@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>hello wooooooooorld</h1>
+    <h1>hello world cup</h1>
   )
 }
